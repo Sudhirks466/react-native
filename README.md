@@ -1,1 +1,1 @@
-# redux
+# React-Native Full course
